@@ -4,7 +4,7 @@
 
 **[Русский](#ru) · [English](#en) · [Հայերեն](#hy)**
 
-[verstka.agency](https://verstka.agency) · [hello@verstka.agency](mailto:hello@verstka.agency)
+[verstka.agency](https://verstka.agency/?utm_source=github&utm_medium=social&utm_campaign=org_profile) · [hello@verstka.agency](mailto:hello@verstka.agency)
 
 </div>
 
